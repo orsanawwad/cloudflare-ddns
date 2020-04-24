@@ -1,0 +1,5 @@
+module github.com/orsanawwad/cloudflare-ddns
+
+go 1.14
+
+require github.com/joho/godotenv v1.3.0
